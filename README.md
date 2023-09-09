@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgigrec323
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning ThreeJs
 - 📫 How to reach me ...IG:@jgigrec323
 
 <!---
