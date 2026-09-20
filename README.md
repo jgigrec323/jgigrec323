@@ -1,46 +1,41 @@
-# 👋 Hi, I'm Jean Galant Yombouno (@jgigrec323)
+# Jean Galant Yombouno
 
-Welcome to my GitHub! I’m a curious and motivated software engineering student passionate about building modern web and data-driven applications.
+**Software Developer · SaaS Builder · AI & Intelligent Systems**
 
-## 👨‍💻 What I'm Passionate About
-- 🌐 Full-stack development with **Next.js** and modern web technologies  
-- 🧠 Learning **Python** for automation, data analysis, and machine learning  
-- 📊 Exploring **Data Science** and real-world insights through clean code  
-- 🧩 Blending front-end design with back-end logic to solve real problems  
+I build software products with a focus on full-stack development, SaaS, and practical systems designed around real-world needs.
 
-## 🌱 Currently Learning
-- 📌 Python (Pandas, NumPy, Matplotlib)
-- 📌 Data Science fundamentals & visualization
-- 📌 Building powerful apps with Next.js
+Currently building [QuiqMenu](https://quiqmenu.com), a SaaS platform for digital restaurant menus, while pursuing a Master's in **Artificial Intelligence & Intelligent Systems** and exploring how AI can be integrated into useful software products.
 
-## 💡 What I Know
+### Currently
 
-### 🧰 Languages & Frameworks
-- **JavaScript**, **TypeScript**, **Python**, **Dart**
-- **React**, **Next.js**, **Flutter**, **Node.js**
+- Building and growing **QuiqMenu**
+- Working with **Next.js, TypeScript and Python**
+- Learning and building around **AI, Machine Learning and Intelligent Systems**
+- Exploring practical applications of AI in software products
 
-### 🧠 Tools & Platforms
-- **Firebase**, **MongoDB**, **PostgreSQL**
-- **Git**, **GitHub**, **Figma**, **Vercel**
+### Tech Stack
 
-### 📱 Mobile Development
-- Cross-platform apps with **Flutter** and **React Native**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,dart,flutter" />
+</p>
 
-### 🛠️ Services Offered
-- **Web Design**: Landing pages, business websites, online stores
-- **Web Development**: Frontend and backend development
-- **Mobile Apps**: Android and iOS design & development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,git,github,vercel,figma" />
+</p>
 
-## 📫 Let's Connect
-- 📸 Instagram: [@jgigrec323](https://www.instagram.com/jgigrec323)
-- 💼 LinkedIn: [jgigrec323](https://www.linkedin.com/in/jgigrec323)
-- 🌍 Portfolio: [jeangalant.com](https://www.jeangalant.com)
+### GitHub
 
----
+<p align="left">
+  <img src="https://img.shields.io/github/followers/jgigrec323?label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jgigrec323&query=$.public_repos&label=Public%20Repositories&style=flat-square&logo=github" />
+</p>
 
-> “Learning to write programs stretches your mind and helps you think better.” – Bill Gates
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=jgigrec323&theme=github-dark-blue&hide_border=true" alt="GitHub Contributions" />
+</p>
 
-<!---
-This is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### Connect
+
+[Website](https://jeangalant.com) · [LinkedIn](https://www.linkedin.com/in/jgigrec323)
